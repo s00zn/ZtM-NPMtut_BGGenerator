@@ -1,0 +1,18 @@
+{
+  "name": "ztm-npmtut_bggenerator",
+  "version": "1.0.0",
+  "description": "NPMTutorial",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/s00zn/ZtM-NPMtut_BGGenerator.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "s00zn",
+  "license": "ISC"
+}
